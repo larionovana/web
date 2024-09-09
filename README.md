@@ -1,5 +1,7 @@
 # Тестирование web-приложений
 
+В данном блоке создали [тест-план](https://docs.google.com/spreadsheets/d/1VnqI7gN9bZhNjEIBa7G2VGoLyZ3qNSjZRIEYAwWZlio/edit?usp=sharing) для приложения Интернет-магазин
+
 В блоке Тестирование web-приложений продолжили заполнять чек-лист для корзины и оплаты в [файле](https://docs.google.com/spreadsheets/d/19p6LWW8atAaQox5C4h91zBdyFSMlyklsRzD2Ip5-e-M/edit?usp=sharing).
 
 Тест-кейсы также создавали в [QASE](https://github.com/larionovana/docs/blob/main/G8-2024-09-05.pdf), с помощью прогонов обнаружили несколько багов.
